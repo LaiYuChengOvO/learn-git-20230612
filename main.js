@@ -1,2 +1,1 @@
-alert("ello, World!");
-H
+alert("Hello, World!");
