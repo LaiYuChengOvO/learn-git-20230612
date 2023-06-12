@@ -1,3 +1,11 @@
 body {
-  background-color: #e2c098;
+	background-color: #e2c098;
+}
+
+h1 {
+	color: red;
+}
+
+h2 {
+	color: blue;
 }
